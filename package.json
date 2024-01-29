@@ -1,0 +1,53 @@
+{
+  "name": "tailone",
+  "version": "1.0.0",
+  "description": "Tailwind One Page Template",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "@splidejs/splide": "^4.0.2",
+    "glightbox": "^3.2.0",
+    "smooth-scroll": "^16.1.3",
+    "tailwindcss": "^3.0.24",
+    "typed.js": "^2.0.12",
+    "wow.js": "^1.2.2"
+  },
+  "devDependencies": {
+    "acorn": "^8.5.0",
+    "autoprefixer": "^10.2.6",
+    "browser-sync": "^2.26.14",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^9.0.0",
+    "gulp-purgecss": "^3.1.3",
+    "gulp-replace": "^1.1.3",
+    "gulp-terser": "^2.0.1",
+    "log-symbols": "^4.1.0"
+  },
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp prod",
+    "updatevendors": "gulp updatevendors"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aribudin/tailone.git"
+  },
+  "keywords": [
+    "One page",
+    "Template",
+    "Landing",
+    "tailwindcss",
+    "Agency"
+  ],
+  "author": "Aribudin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://tailwindtemplate.net/support/"
+  },
+  "homepage": "https://tailwindtemplate.net/",
+  "directories": {
+    "doc": "docs"
+  }
+}

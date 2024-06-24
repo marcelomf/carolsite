@@ -648,10 +648,6 @@ video {
     margin-top:1.25rem;
     margin-bottom:1.25rem;
 }
-.-mx-12 {
-    margin-left:-3rem;
-    margin-right:-3rem;
-}
 .mb-1 {
     margin-bottom:0.25rem;
 }
@@ -2598,14 +2594,6 @@ iframe.wait-autoplay {
         width:66.666667%;
     }
 
-    .lg\:w-2\/3 {
-        width:66.666667%;
-    }
-
-    .lg\:w-96 {
-        width:24rem;
-    }
-
     .lg\:flex-row {
         flex-direction:row;
     }
@@ -2636,11 +2624,6 @@ iframe.wait-autoplay {
     .lg\:py-7 {
         padding-top:1.75rem;
         padding-bottom:1.75rem;
-    }
-
-    .lg\:px-12 {
-        padding-left:3rem;
-        padding-right:3rem;
     }
 
     .lg\:pl-8 {
